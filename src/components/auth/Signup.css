@@ -1,0 +1,16 @@
+.signup {
+  max-width: 480px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto auto;
+  padding: 0.2rem;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.signup > h3 {
+  margin: 0.2rem;
+  padding: 0.2rem;
+}

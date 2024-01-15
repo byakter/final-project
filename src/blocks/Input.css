@@ -1,0 +1,76 @@
+/* .input {
+  display: inline-block;
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.input > input,
+.input > input:focus {
+  width: 400px;
+  outline: none;
+  border: 1px solid rgba(207, 207, 207, 1);
+  border-radius: 18px;
+  padding: 10px 20px;
+  color: rgba(207, 207, 207, 1);
+}
+
+.active {
+  border-color: rgba(47, 113, 229, 1);
+  color: rgba(0, 0, 0, 1);
+} */
+/* Input.css */
+/* Input.css */
+/* Input.css */
+/* Input.css */
+.input {
+  display: inline-block;
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.input > input {
+  width: 400px;
+  outline: none;
+  border: 1px solid rgba(207, 207, 207, 1);
+  border-radius: 18px;
+  padding: 10px 20px;
+  color: rgba(207, 207, 207, 1);
+}
+
+.input.active > input {
+  border-color: rgba(47, 113, 229, 1);
+  color: rgba(0, 0, 0, 1);
+}
+
+.input.error > input {
+  border-color: rgba(255, 0, 0, 1);
+  color: rgba(255, 0, 0, 1);
+}
+/* Input.css */
+.input {
+  display: inline-block;
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.input > input {
+  width: 400px;
+  outline: none;
+  border: 1px solid rgba(207, 207, 207, 1);
+  border-radius: 18px;
+  padding: 10px 20px;
+  color: rgba(207, 207, 207, 1);
+}
+
+.input.active > input {
+  border-color: rgba(47, 113, 229, 1);
+  color: rgba(0, 0, 0, 1);
+}
+
+.input.error > input {
+  border-color: rgba(255, 0, 0, 1);
+  color: rgba(255, 0, 0, 1);
+}
+.input > main > input {
+  max-width: 1px;
+}

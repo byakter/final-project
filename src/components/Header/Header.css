@@ -1,0 +1,17 @@
+.header {
+  padding: 0;
+  margin: 0;
+  min-height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header > ul {
+  list-style: none;
+}
+
+.header > h3 {
+  color: white;
+  margin-left: 50px;
+}
