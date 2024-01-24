@@ -60,6 +60,7 @@ import Button from '../../blocks/Button';
 import Input from '../../blocks/Input';
 import Context from '../context';
 
+
 const Main = () => {
   const [albums, setAlbums] = useState([]);
   const [search, setSearch] = useState('');

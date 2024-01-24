@@ -8,13 +8,14 @@
   align-content: center;
   align-items: center;
   background-color: black;
-  color: white;
+  color: rgb(224, 221, 221);
   height: 100%;
 }
 
 .nav-link {
   padding: 0 10px;
-  color: white;
+  color: rgb(224, 221, 221);
   border-radius: 2px;
-  border-color: white;
+  border-color: rgb(224, 221, 221);
+  text-decoration: none;
 }

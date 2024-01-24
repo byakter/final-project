@@ -15,8 +15,22 @@
   margin: 1vw;
 }
 .main > div img {
-  width: 15vw;
+  width: 100%;
 }
 .main-input {
   width: 10px !important;
+}
+
+@media screen and (max-width: 595px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    max-height: fit-content;
+  }
+  .main > div img {
+    margin: 10px 0;
+  }
 }
