@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/byakter_bucket/static/css/main.5efb2842.css",
+    "main.js": "/byakter_bucket/static/js/main.feb2d194.js",
+    "static/js/787.c4df67fb.chunk.js": "/byakter_bucket/static/js/787.c4df67fb.chunk.js",
+    "index.html": "/byakter_bucket/index.html",
+    "main.5efb2842.css.map": "/byakter_bucket/static/css/main.5efb2842.css.map",
+    "main.feb2d194.js.map": "/byakter_bucket/static/js/main.feb2d194.js.map",
+    "787.c4df67fb.chunk.js.map": "/byakter_bucket/static/js/787.c4df67fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5efb2842.css",
+    "static/js/main.feb2d194.js"
+  ]
+}
