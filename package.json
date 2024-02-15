@@ -1,5 +1,6 @@
 {
   "name": "final-project",
+  "homepage": "https://storage.googleapis.com/byakter_bucket",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
